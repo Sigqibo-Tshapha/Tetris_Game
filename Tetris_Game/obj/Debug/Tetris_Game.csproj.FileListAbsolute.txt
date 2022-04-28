@@ -1,0 +1,14 @@
+C:\Users\star\Desktop\Tetris_Game\Tetris_Game\bin\Debug\Tetris_Game.exe.config
+C:\Users\star\Desktop\Tetris_Game\Tetris_Game\obj\Debug\MainWindow.g.cs
+C:\Users\star\Desktop\Tetris_Game\Tetris_Game\obj\Debug\App.g.cs
+C:\Users\star\Desktop\Tetris_Game\Tetris_Game\obj\Debug\Tetris_Game_MarkupCompile.cache
+C:\Users\star\Desktop\Tetris_Game\Tetris_Game\obj\Debug\Tetris_Game_MarkupCompile.lref
+C:\Users\star\Desktop\Tetris_Game\Tetris_Game\bin\Debug\Tetris_Game.exe
+C:\Users\star\Desktop\Tetris_Game\Tetris_Game\bin\Debug\Tetris_Game.pdb
+C:\Users\star\Desktop\Tetris_Game\Tetris_Game\obj\Debug\MainWindow.baml
+C:\Users\star\Desktop\Tetris_Game\Tetris_Game\obj\Debug\Tetris_Game.g.resources
+C:\Users\star\Desktop\Tetris_Game\Tetris_Game\obj\Debug\Tetris_Game.Properties.Resources.resources
+C:\Users\star\Desktop\Tetris_Game\Tetris_Game\obj\Debug\Tetris_Game.csproj.GenerateResource.Cache
+C:\Users\star\Desktop\Tetris_Game\Tetris_Game\obj\Debug\Tetris_Game.exe
+C:\Users\star\Desktop\Tetris_Game\Tetris_Game\obj\Debug\Tetris_Game.pdb
+C:\Users\star\Desktop\Tetris_Game\Tetris_Game\obj\Debug\Tetris_Game.csprojResolveAssemblyReference.cache
